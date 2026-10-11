@@ -5,5 +5,5 @@ public class StudentController{
 }
 
 // TENEMOS DOS COLABORADORES
-//PC1
-//PC2
+//PC1  Student model
+//PC2  Studet report
